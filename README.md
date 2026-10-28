@@ -9,6 +9,12 @@
 挣扎中……
 </p>
 
+<p align="center">
+    <a href="https://ghost.naer.ink/">
+        <img src="https://ghost.naer.ink/badge/naer-lily.svg" alt="Ghost League 状态" />
+    </a>
+</p>
+
 <div align="center">
     <img src="https://github-cards.yumeko.site/api/cards/stats?username=naer-lily&theme=github" alt="Stats" />
     <img src="https://github-cards.yumeko.site/api/cards/repos-per-language?username=naer-lily&theme=github"
